@@ -1,0 +1,9 @@
+./Project Video/*
+./Second/*
+./Obsolete/*
+./__pycache__/*
+*.docx
+*.pdf
+*.txt
+*.pyc
+check_ip.py
